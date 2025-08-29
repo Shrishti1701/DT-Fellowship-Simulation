@@ -1,38 +1,49 @@
-# DT Fellowship Simulation Assignment  
-*Growth Engineering via Prompted Strategy*  
+# 🌱 DT Fellowship Simulation Assignment  
+**Growth Engineering via Prompted Strategy**  
 
 This repo is my submission for the **DT Fellowship Simulation Lab: Boardroom Growth Engineering**.  
-The assignment is divided into 4 parts:  
+It is structured into 4 parts, each focusing on a different lens of growth strategy.  
 
 ---
 
-## 📌 Contents  
+## 📂 Repository Structure  
 
-**Part 1 – Prompt Engineering for Mass Personalization**  
-- 2 AI prompts designed for outbound campaigns (AIDCA + Cialdini principles)  
-- Conversational sample emails included  
+| Part | Title | Focus |
+|------|-------|-------|
+| **Part 1** | [Prompt Engineering for Mass Personalization](./Prompt%20Engineering%20for%20Mass%20Personalization.md) | AI prompts for outbound + sample conversational emails |
+| **Part 2** | [Funnel Debugging via Prompt-Based Diagnosis](./Funnel%20Debugging%20via%20Prompt-Based%20Diagnosis.md) | Mock funnel dataset, MMF analysis, fix prompts |
+| **Part 3** | [Dashboard Design with Boardroom Intent](./Dashboard%20Design%20with%20Boardroom%20Intent.md) | Wireframe design + Funnel Metrics + Recommendations |
+| **Part 4** | [Strategic Summary](./Strategic%20Summary.md) | Reflection on learnings and CEO-style insights |
 
-**Part 2 – Funnel Debugging via Prompt-Based Diagnosis**  
-- Mock funnel dataset (3 rows)  
-- MMF analysis (Message-Market Fit)  
-- Fix prompts with AIDCA + persuasion principles  
+---
 
-**Part 3 – Dashboard Design with Boardroom Intent**  
-- Wireframe design for campaign tracking (Excel / Notion / Figma-ready)  
-- Sections: Funnel Metrics, AIDCA Diagnosis, Strategic Recommendations  
+## 🧩 Highlights  
 
-**Part 4 – Strategic Summary (200 words)**  
-- Reflection on how prompting changes narrative  
-- CEO mindset towards iterative, AI-driven strategy  
+### ✨ Part 1 – Prompt Engineering  
+- 2 outbound campaign prompts (AIDCA + Cialdini)  
+- Conversational email samples  
+
+### 🔍 Part 2 – Funnel Debugging  
+- Small funnel dataset (3 rows)  
+- MMF (Message-Market Fit) analysis  
+- Fix prompts with persuasion principles  
+
+### 📊 Part 3 – Dashboard Design  
+- Wireframe ready for Excel / Notion / Figma  
+- Funnel Metrics, AIDCA Diagnosis, Strategic Recommendations  
+
+### 📝 Part 4 – Strategic Summary  
+- How prompting changes the growth narrative  
+- CEO mindset on iterative, AI-driven strategy  
 
 ---
 
 ## 🚀 Key Takeaways  
 
-- **Business growth isn’t about leads — it’s about levers.**  
+- **Growth isn’t about leads — it’s about levers.**  
 - **Dashboards aren’t for reporting, they’re for decision-making.**  
-- **Prompts, funnels, and dashboards together form a growth engine.**  
+- **Prompts + Funnels + Dashboards → A stitched growth engine.**  
 
 ---
 
-✨ By *Shrishti Banshiar*  
+👩‍💻 *Submitted by Shrishti Banshiar*  
