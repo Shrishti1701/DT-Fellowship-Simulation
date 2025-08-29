@@ -2,6 +2,13 @@
 **Growth Engineering via Prompted Strategy**  
 
 This repo is my submission for the **DT Fellowship Simulation Lab: Boardroom Growth Engineering**.  
+
+📌 **Chosen Assignment:**  
+**Option 3 – Growth Analyst**  
+*Design mass-personalized messaging strategies using industry-specific data to help brands scale outreach.*  
+
+🔗 [Problem Statement Doc](https://docs.google.com/document/d/1epvcag8jk8LGD9htkLcpcIQ-K-ldt_pq/)  
+
 It is structured into 4 parts, each focusing on a different lens of growth strategy.  
 
 ---
